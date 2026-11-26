@@ -1,0 +1,14 @@
+{
+  "name": "i-am-human",
+  "description": "Makes Claude's written output sound human and less verbose, based on Wikipedia's Signs of AI writing.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "style",
+    "editing",
+    "ai-writing",
+    "concise"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}

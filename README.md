@@ -24,6 +24,7 @@ Update with `/plugin marketplace update skillforge`.
 | Plugin | What it does |
 |---|---|
 | [`i-am-human`](i-am-human) | Makes written output sound human and less verbose, based on Wikipedia's [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). |
+| [`in-my-voice`](in-my-voice) | Writes in Savindi's blog voice. Use with `i-am-human`. |
 
 ## Develop
 

@@ -1,11 +1,18 @@
 {
   "name": "skillforge",
-  "owner": { "name": "savindi" },
+  "owner": {
+    "name": "savindi"
+  },
   "plugins": [
     {
       "name": "i-am-human",
       "source": "./i-am-human",
       "description": "Makes Claude's written output sound human and less verbose, based on Wikipedia's Signs of AI writing."
+    },
+    {
+      "name": "in-my-voice",
+      "source": "./in-my-voice",
+      "description": "Writes in Savindi Wijenayaka's blog voice: warm, chatty, analogy-led. Layers on top of i-am-human."
     }
   ]
 }

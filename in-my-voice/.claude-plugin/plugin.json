@@ -1,0 +1,7 @@
+{
+  "name": "in-my-voice",
+  "description": "Writes in Savindi Wijenayaka's blog voice: warm, chatty, analogy-led. Layers on top of i-am-human.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": ["writing", "style", "tone", "voice", "blog"]
+}
